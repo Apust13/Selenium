@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests" duration-ms="4909" started-at="2015-02-11T11:10:14Z" finished-at="2015-02-11T11:10:19Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="4909" started-at="2015-02-11T11:10:14Z" finished-at="2015-02-11T11:10:19Z">
+      <class name="ru.st.selenium.Logout">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.Logout@7e4736ab]" name="init" is-config="true" duration-ms="4" started-at="2015-02-11T14:10:19Z" finished-at="2015-02-11T14:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLogout()[pri:0, instance:ru.st.selenium.Logout@7e4736ab]" name="testLogout" duration-ms="277" started-at="2015-02-11T14:10:19Z" finished-at="2015-02-11T14:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.st.selenium.Logout@7e4736ab]" name="tearDown" is-config="true" duration-ms="1078" started-at="2015-02-11T14:10:19Z" finished-at="2015-02-11T14:10:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ru.st.selenium.Logout -->
+      <class name="ru.st.selenium.AddFilm">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.AddFilm@70c73be3]" name="init" is-config="true" duration-ms="4" started-at="2015-02-11T14:10:18Z" finished-at="2015-02-11T14:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testAddFilm()[pri:0, instance:ru.st.selenium.AddFilm@70c73be3]" name="testAddFilm" duration-ms="883" started-at="2015-02-11T14:10:18Z" finished-at="2015-02-11T14:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddFilm -->
+      </class> <!-- ru.st.selenium.AddFilm -->
+      <class name="ru.st.selenium.Login">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.Login@1db87736]" name="init" is-config="true" duration-ms="1737" started-at="2015-02-11T14:10:14Z" finished-at="2015-02-11T14:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:ru.st.selenium.Login@1db87736]" name="testLogin" duration-ms="1919" started-at="2015-02-11T14:10:16Z" finished-at="2015-02-11T14:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- ru.st.selenium.Login -->
+      <class name="ru.st.selenium.RemoveFilm">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.RemoveFilm@282ceded]" name="init" is-config="true" duration-ms="4" started-at="2015-02-11T14:10:19Z" finished-at="2015-02-11T14:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testRemoveFilm()[pri:0, instance:ru.st.selenium.RemoveFilm@282ceded]" name="testRemoveFilm" duration-ms="67" started-at="2015-02-11T14:10:19Z" finished-at="2015-02-11T14:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveFilm -->
+      </class> <!-- ru.st.selenium.RemoveFilm -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Tests -->
+</testng-results>
